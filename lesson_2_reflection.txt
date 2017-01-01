@@ -22,3 +22,4 @@ You can merge 2 branch projects together into 1 project.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+automatic merging is an easier merge
