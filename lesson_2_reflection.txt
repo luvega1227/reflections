@@ -18,6 +18,7 @@ Helps you visualize that branches are like small extensions to your project.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+You can merge 2 branch projects together into 1 project.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
